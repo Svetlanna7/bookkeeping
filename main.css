@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(18, 18, 18);
+}
+h1{
+    margin-left: 20px;
+}
+i{
+    margin-right: 10px;
+
+}
